@@ -1,0 +1,15 @@
+/Users/kirillzaostrovskikh/Desktop/Seminar_7.0/HomeTask_047/obj/Debug/net6.0/HomeTask_047.csproj.AssemblyReference.cache
+/Users/kirillzaostrovskikh/Desktop/Seminar_7.0/HomeTask_047/obj/Debug/net6.0/HomeTask_047.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillzaostrovskikh/Desktop/Seminar_7.0/HomeTask_047/obj/Debug/net6.0/HomeTask_047.AssemblyInfoInputs.cache
+/Users/kirillzaostrovskikh/Desktop/Seminar_7.0/HomeTask_047/obj/Debug/net6.0/HomeTask_047.AssemblyInfo.cs
+/Users/kirillzaostrovskikh/Desktop/Seminar_7.0/HomeTask_047/obj/Debug/net6.0/HomeTask_047.csproj.CoreCompileInputs.cache
+/Users/kirillzaostrovskikh/Desktop/Seminar_7.0/HomeTask_047/bin/Debug/net6.0/HomeTask_047
+/Users/kirillzaostrovskikh/Desktop/Seminar_7.0/HomeTask_047/bin/Debug/net6.0/HomeTask_047.deps.json
+/Users/kirillzaostrovskikh/Desktop/Seminar_7.0/HomeTask_047/bin/Debug/net6.0/HomeTask_047.runtimeconfig.json
+/Users/kirillzaostrovskikh/Desktop/Seminar_7.0/HomeTask_047/bin/Debug/net6.0/HomeTask_047.dll
+/Users/kirillzaostrovskikh/Desktop/Seminar_7.0/HomeTask_047/bin/Debug/net6.0/HomeTask_047.pdb
+/Users/kirillzaostrovskikh/Desktop/Seminar_7.0/HomeTask_047/obj/Debug/net6.0/HomeTask_047.dll
+/Users/kirillzaostrovskikh/Desktop/Seminar_7.0/HomeTask_047/obj/Debug/net6.0/refint/HomeTask_047.dll
+/Users/kirillzaostrovskikh/Desktop/Seminar_7.0/HomeTask_047/obj/Debug/net6.0/HomeTask_047.pdb
+/Users/kirillzaostrovskikh/Desktop/Seminar_7.0/HomeTask_047/obj/Debug/net6.0/HomeTask_047.genruntimeconfig.cache
+/Users/kirillzaostrovskikh/Desktop/Seminar_7.0/HomeTask_047/obj/Debug/net6.0/ref/HomeTask_047.dll
