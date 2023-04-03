@@ -1,0 +1,5 @@
+/Users/kirillzaostrovskikh/Desktop/Seminar_7.0/HomeTask_050/obj/Debug/net6.0/HomeTask_050.csproj.AssemblyReference.cache
+/Users/kirillzaostrovskikh/Desktop/Seminar_7.0/HomeTask_050/obj/Debug/net6.0/HomeTask_050.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillzaostrovskikh/Desktop/Seminar_7.0/HomeTask_050/obj/Debug/net6.0/HomeTask_050.AssemblyInfoInputs.cache
+/Users/kirillzaostrovskikh/Desktop/Seminar_7.0/HomeTask_050/obj/Debug/net6.0/HomeTask_050.AssemblyInfo.cs
+/Users/kirillzaostrovskikh/Desktop/Seminar_7.0/HomeTask_050/obj/Debug/net6.0/HomeTask_050.csproj.CoreCompileInputs.cache
